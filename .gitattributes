@@ -4,3 +4,4 @@
 *.umap filter=lfs diff=lfs merge=lfs -text
 *.blend filter=lfs diff=lfs merge=lfs -text
 *.fbx filter=lfs diff=lfs merge=lfs -text
+C:/Users/ryann/Downloads/Git_Oct/Content/Asian_Village filter=lfs diff=lfs merge=lfs -text
